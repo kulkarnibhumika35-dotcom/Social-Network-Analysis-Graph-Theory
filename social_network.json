@@ -1,0 +1,32 @@
+{
+  "people": [
+    "Alice",
+    "Bob",
+    "Charlie",
+    "David",
+    "Eve",
+    "Frank"
+  ],
+  "friendships": [
+    [
+      "Alice",
+      "Bob"
+    ],
+    [
+      "Alice",
+      "Charlie"
+    ],
+    [
+      "Bob",
+      "Charlie"
+    ],
+    [
+      "Bob",
+      "David"
+    ],
+    [
+      "David",
+      "Eve"
+    ]
+  ]
+}
